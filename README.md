@@ -6,7 +6,7 @@
 1. **Clone the repo**
 
   ```
-  $ git clone https://github.com/ZhouYanlang/Redux-Todos.git
+  $ git clone https://github.com/AlbertSid/Redux-Todos.git
   $ cd Redux-Todos
   ```
 
